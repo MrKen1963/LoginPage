@@ -1,0 +1,35 @@
+body {
+
+    background: #4169E1;
+
+}
+
+*{
+
+    font-family: cursive;
+	
+	font-weight: bold;
+
+    box-sizing: padding-box;
+	
+	color: black;
+
+}
+
+h1 {
+	
+	font-size: 80px;
+	
+	display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    flex-direction: column;
+	
+	color: gold;
+	
+}
